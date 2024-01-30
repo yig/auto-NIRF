@@ -1,6 +1,10 @@
 ## All the categories on <https://www.nirfindia.org/2023/Ranking.html>
 ## pip install requests beautifulsoup4
 
+## Author: Yotam Gingold <yotam@yotamgingold.com>
+## License: CC0
+## URL: https://gist.github.com/yig/bc29935d22845dc02bf5000bcf18ba25
+
 # from pathlib import Path
 import csv
 import os
