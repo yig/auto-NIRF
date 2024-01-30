@@ -3,6 +3,7 @@
 
 # from pathlib import Path
 import csv
+import os
 
 import requests
 from bs4 import BeautifulSoup
@@ -28,20 +29,35 @@ def main():
         ## Pathlib isn't great with 
         # category = Path(url).stem.removesuffix('Ranking')
         category = url.removesuffix('Ranking.html').split('/')[-1]
+        outpath = category + '.csv'
+        if os.path.exists( outpath ):
+            print( "Path exists, skipping:", outpath )
+            continue
         table = table_from_URL( url )
+
+        ## Keep only the columns we want (Name, City, State, Rank)
+        if category == 'Innovation':
+            table = [ [ row[1], '', row[2], row[3] ] for row in table ]
+        else:
+            table = [ row[1:4] + [row[5]] for row in table ]
         
         for rank, suffix in ( ( '101-150', '150.html' ), ( '151-200', '200.html' ) ):
             try:
                 table2 = table_from_URL( url.removesuffix('.html') + suffix )
-                table.extend([ row + [rank] for row in table2 ])
+                ## Add a rank column for this data.
+                table2 = [ row + [rank] for row in table2 ]
+                ## Combine tables
+                table.extend( table2 )
             except KeyError as k:
                 print( k )
         
-        with open( category + '.csv', 'w' ) as f:
+        with open( outpath, 'w' ) as f:
             out = csv.writer( f )
             out.writerow( ['Name', 'City', 'State', 'Rank', 'Category'] )
             for row in table:
                 out.writerow( row + [category] )
+        
+        print( "Wrote:", outpath )
 
 ## Thanks, ChatGPT
 def table_from_URL( url ):
@@ -58,7 +74,7 @@ def table_from_URL( url ):
     # Extract text contents of the rows
     table_data = []
     for row in soup.select('.table-condensed > tbody > tr'):
-        row_data = [ cell.get_text(strip=True) for cell in row.find_all('td', recursive = False) ]
+        row_data = [ list(cell.stripped_strings)[0] for cell in row.find_all('td', recursive = False) ]
         table_data.append( row_data )
     
     return table_data
