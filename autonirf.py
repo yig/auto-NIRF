@@ -3,7 +3,7 @@
 
 ## Author: Yotam Gingold <yotam@yotamgingold.com>
 ## License: CC0
-## URL: https://gist.github.com/yig/bc29935d22845dc02bf5000bcf18ba25
+## URL: <https://gist.github.com/yig/bc29935d22845dc02bf5000bcf18ba25>
 
 # from pathlib import Path
 import csv
@@ -37,8 +37,8 @@ def main():
         if os.path.exists( outpath ):
             print( "Path exists, skipping:", outpath )
             continue
-        table = table_from_URL( url )
-
+        table = table_from_URL( url, '#tbl_overall' )
+        
         ## Keep only the columns we want (Name, City, State, Rank)
         if category == 'Innovation':
             table = [ [ row[1], '', row[2], row[3] ] for row in table ]
@@ -64,7 +64,7 @@ def main():
         print( "Wrote:", outpath )
 
 ## Thanks, ChatGPT
-def table_from_URL( url ):
+def table_from_URL( url, prefix = '' ):
     # Fetch HTML content from the URL
     print( "Fetching:", url )
     response = requests.get(url)
@@ -77,10 +77,11 @@ def table_from_URL( url ):
     
     # Extract text contents of the rows
     table_data = []
-    for row in soup.select('.table-condensed > tbody > tr'):
+    for row in soup.select( prefix + '.table-condensed > tbody > tr' ):
         row_data = [ list(cell.stripped_strings)[0] for cell in row.find_all('td', recursive = False) ]
         table_data.append( row_data )
     
+    print( f"Fetched {len(table_data)} row{'s' if len(table_data) != 1 else ''}." )
     return table_data
 
 if __name__ == '__main__': main()
