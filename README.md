@@ -27,3 +27,7 @@ Try running the script with a change to the year number? More formally:
 1. Go to <https://www.nirfindia.org>
 2. Click the link for the latest results, e.g., <https://www.nirfindia.org/Rankings/2024/Ranking.html>
 3. Check for any changes to the categories or category URLs.
+
+# License
+
+Public Domain [CC0](http://creativecommons.org/publicdomain/zero/1.0/)
