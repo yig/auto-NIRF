@@ -1,51 +1,51 @@
 Name,City,State,Rank,Category
-Indian Institute of Science,Bengaluru,Karnataka,1,Research
+"Indian Institute of Science, Bengaluru",Bengaluru,Karnataka,1,Research
 Indian Institute of Technology Madras,Chennai,Tamil Nadu,2,Research
 Indian Institute of Technology Delhi,New Delhi,Delhi,3,Research
 Indian Institute of Technology Bombay,Mumbai,Maharashtra,4,Research
 Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,5,Research
-Indian Institute of Technology Kanpur,Kanpur,Uttar Pradesh,6,Research
-Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,7,Research
-"All India Institute of Medical Sciences, Delhi",New Delhi,Delhi,8,Research
-Indian Institute of Technology Guwahati,Guwahati,Assam,9,Research
-Tata Institute of Fundamental Research,Mumbai,Maharashtra,10,Research
-Vellore Institute of Technology,Vellore,Tamil Nadu,11,Research
-Academy of Scientific & Innovative Research,Ghaziabad,Uttar Pradesh,12,Research
-Anna University,Chennai,Tamil Nadu,13,Research
-Indian Institute of Technology Hyderabad,Hyderabad,Telangana,14,Research
-Homi Bhabha National Institute,Mumbai,Maharashtra,15,Research
+Homi Bhabha National Institute,Mumbai,Maharashtra,6,Research
+Indian Institute of Technology Kanpur,Kanpur,Uttar Pradesh,7,Research
+All India Institute of Medical Sciences Delhi,New Delhi,Delhi,8,Research
+Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,9,Research
+Indian Institute of Technology Guwahati,Guwahati,Assam,10,Research
+Academy of Scientific and Innovative Research,Ghaziabad,Uttar Pradesh,11,Research
+Tata Institute of Fundamental Research,Mumbai,Maharashtra,12,Research
+Vellore Institute of Technology,Vellore,Tamil Nadu,13,Research
+University of Delhi,Delhi,Delhi,14,Research
+Indian Institute of Technology Hyderabad,Hyderabad,Telangana,15,Research
 Banaras Hindu University,Varanasi,Uttar Pradesh,16,Research
-University of Delhi,Delhi,Delhi,17,Research
+Anna University,Chennai,Tamil Nadu,17,Research
 Jawaharlal Nehru University,New Delhi,Delhi,18,Research
-Jadavpur University,Kolkata,West Bengal,19,Research
-"Jamia Millia Islamia,New Delhi",New Delhi,Delhi,20,Research
-Indian Institute of Technology Indore,Indore,Madhya Pradesh,21,Research
-National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,22,Research
-Aligarh Muslim University,Aligarh,Uttar Pradesh,23,Research
-Indian Institute of Technology (Indian School of Mines),Dhanbad,Jharkhand,24,Research
-Manipal Academy of Higher Education-Manipal,Manipal,Karnataka,25,Research
-Birla Institute of Technology  & Science -Pilani,Pilani,Rajasthan,26,Research
-Indian Institute of Science Education & Research Pune,Pune,Maharashtra,27,Research
+Jamia Millia Islamia,New Delhi,Delhi,19,Research
+Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,20,Research
+Jadavpur University,Kolkata,West Bengal,21,Research
+Indian Institute of Technology (Indian School of Mines) Dhanbad,Dhanbad,Jharkhand,22,Research
+"Manipal Academy of Higher Education, Manipal",Manipal,Karnataka,23,Research
+S.R.M. Institute of Science and Technology,Chennai,Tamil Nadu,24,Research
+Aligarh Muslim University,Aligarh,Uttar Pradesh,25,Research
+"Birla Institute of Technology and Science, Pilani",Pilani,Rajasthan,26,Research
+Indian Institute of Technology Indore,Indore,Madhya Pradesh,27,Research
 University of Hyderabad,Hyderabad,Telangana,28,Research
-National Institute of Technology Rourkela,Rourkela,Odisha,29,Research
-Jawaharlal Nehru Centre for Advanced Scientific Research,Bengaluru,Karnataka,30,Research
-Indian Institute of Technology Gandhinagar,Gandhinagar,Gujarat,31,Research
-Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,32,Research
-Panjab University,Chandigarh,Chandigarh,33,Research
-Thapar Institute of Engineering and Technology (Deemed-to-be-university),Patiala,Punjab,34,Research
-Calcutta University,Kolkata,West Bengal,35,Research
-Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,36,Research
-Institute of Chemical Technology,Mumbai,Maharashtra,37,Research
-Bharathiar University,Coimbatore,Tamil Nadu,38,Research
-S.R.M. Institute of Science and Technology,Chennai,Tamil Nadu,39,Research
-Indian Institute of Science Education & Research Kolkata,Mohanpur,West Bengal,40,Research
-"National Institute of Technology Karnataka, Surathkal",Surathkal,Karnataka,41,Research
-Lovely Professional University,Phagwara,Punjab,42,Research
-Alagappa University,Karaikudi,Tamil Nadu,43,Research
-Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,44,Research
-Amity University,Gautam Budh Nagar,Uttar Pradesh,45,Research
-Indian Institute of Technology Ropar,Rupnagar,Punjab,46,Research
-Malaviya National Institute of Technology,Jaipur,Rajasthan,47,Research
-"National Institute of Mental Health & Neuro Sciences, Bangalore",Bangalore,Karnataka,48,Research
-Siksha `O` Anusandhan,Bhubaneswar,Odisha,49,Research
-"Indian Institute of Science Education & Research, Mohali",Mohali,Punjab,50,Research
+Indian Institute of Science Education and Research Pune,Pune,Maharashtra,29,Research
+National Institute of Technology Rourkela,Rourkela,Odisha,30,Research
+National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,31,Research
+Indian Institute of Technology Gandhinagar,Gandhinagar,Gujarat,32,Research
+Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,33,Research
+Jawaharlal Nehru Centre for Advanced Scientific Research,Bengaluru,Karnataka,34,Research
+Panjab University,Chandigarh,Chandigarh,35,Research
+Calcutta University,Kolkata,West Bengal,36,Research
+Indian Agricultural Research Institute,New Delhi,Delhi,37,Research
+Indian Institute of Science Education and Research Kolkata,Mohanpur,West Bengal,38,Research
+Thapar Institute of Engineering and Technology (Deemed-to-be-university),Patiala,Punjab,39,Research
+Institute of Chemical Technology,Mumbai,Maharashtra,40,Research
+Bharathiar University,Coimbatore,Tamil Nadu,41,Research
+"National Institute of Technology Karnataka, Surathkal",Surathkal,Karnataka,42,Research
+"National Institute of Mental Health and Neuro Sciences, Bangalore",Bengaluru,Karnataka,43,Research
+Lovely Professional University,Phagwara,Punjab,44,Research
+Indian Institute of Technology Ropar,Rupnagar,Punjab,45,Research
+Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,46,Research
+Amity University,Gautam Budh Nagar,Uttar Pradesh,47,Research
+Bharathidasan University,Tiruchirappalli,Tamil Nadu,48,Research
+Indian Institute of Science Education and Research Mohali,Mohali,Punjab,49,Research
+Siksha `O` Anusandhan,Bhubaneswar,Odisha,50,Research

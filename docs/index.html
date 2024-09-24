@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSV Fuzzy Search</title>
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script> -->
+    <script src="js/papaparse-5.3.0.min.js"></script>
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.6.2/fuse.min.js"></script> -->
+    <script src="js/fuse-6.6.2.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 100%;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        #search {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 20px;
+            box-sizing: border-box;
+        }
+        #loading {
+            text-align: center;
+            font-style: italic;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <!-- <h1>India ⋅ Ministry of Education ⋅ National Institutional Ranking Framework (NIRF) 2024 ⋅ All Categories</h2> -->
+    <h1>India ⋅ NIRF 2024 ⋅ All Categories</h2>
+    <div id="loading">Loading data...</div>
+    <input type="text" id="search" placeholder="Search..." style="display:none;">
+    <table id="dataTable" style="display:none;">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>City</th>
+                <th>State</th>
+                <th>Rank</th>
+                <th>Category</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+    <script>
+        // To grab data: <https://gist.github.com/yig/bc29935d22845dc02bf5000bcf18ba25>
+        const csvUrl = 'All.csv'; // Replace with your actual CSV URL
+        let fuse;
+        let allData;
+
+        function loadCSV() {
+            Papa.parse(csvUrl, {
+                download: true,
+                header: true,
+                complete: function(results) {
+                    allData = results.data;
+                    displayData(allData);
+                    initFuse(allData);
+                    document.getElementById('loading').style.display = 'none';
+                    document.getElementById('search').style.display = 'block';
+                    document.getElementById('dataTable').style.display = 'table';
+                },
+                error: function(error) {
+                    console.error('Error loading CSV:', error);
+                    document.getElementById('loading').textContent = 'Error loading data. Please try again later.';
+                }
+            });
+        }
+
+        function displayData(data) {
+            const tbody = document.querySelector('#dataTable tbody');
+            tbody.innerHTML = '';
+            data.forEach(row => {
+                const tr = document.createElement('tr');
+                tr.innerHTML = `
+                    <td>${row.Name}</td>
+                    <td>${row.City}</td>
+                    <td>${row.State}</td>
+                    <td>${row.Rank}</td>
+                    <td>${row.Category}</td>
+                `;
+                tbody.appendChild(tr);
+            });
+        }
+
+        function initFuse(data) {
+            const options = {
+                keys: ['Name', 'City', 'State', 'Rank', 'Category'],
+                threshold: 0.3
+            };
+            fuse = new Fuse(data, options);
+        }
+
+        document.getElementById('search').addEventListener('input', function(e) {
+            const searchTerm = e.target.value;
+            if (searchTerm) {
+                const results = fuse.search(searchTerm);
+                displayData(results.map(result => result.item));
+            } else {
+                displayData(allData);
+            }
+        });
+
+        // Load CSV data when the page loads
+        window.addEventListener('load', loadCSV);
+    </script>
+</body>
+</html>

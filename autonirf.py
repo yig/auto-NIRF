@@ -1,4 +1,4 @@
-## All the categories on <https://www.nirfindia.org/2023/Ranking.html>
+## All the categories on <https://www.nirfindia.org/Rankings/2024/Ranking.html>
 ## pip install requests beautifulsoup4
 
 ## Author: Yotam Gingold <yotam@yotamgingold.com>
@@ -14,26 +14,29 @@ from bs4 import BeautifulSoup
 
 def main():
     urls = [
-        'https://www.nirfindia.org/2023/OverallRanking.html',
-        'https://www.nirfindia.org/2023/UniversityRanking.html',
-        'https://www.nirfindia.org/2023/CollegeRanking.html',
-        'https://www.nirfindia.org/2023/ResearchRanking.html',
-        'https://www.nirfindia.org/2023/EngineeringRanking.html',
-        'https://www.nirfindia.org/2023/ManagementRanking.html',
-        'https://www.nirfindia.org/2023/PharmacyRanking.html',
-        'https://www.nirfindia.org/2023/MedicalRanking.html',
-        'https://www.nirfindia.org/2023/DentalRanking.html',
-        'https://www.nirfindia.org/2023/LawRanking.html',
-        'https://www.nirfindia.org/2023/ArchitectureRanking.html',
-        'https://www.nirfindia.org/2023/AgricultureRanking.html',
-        'https://www.nirfindia.org/2023/InnovationRanking.html'
+        'https://www.nirfindia.org/Rankings/2024/OverallRanking.html',
+        'https://www.nirfindia.org/Rankings/2024/UniversityRanking.html',
+        'https://www.nirfindia.org/Rankings/2024/CollegeRanking.html',
+        'https://www.nirfindia.org/Rankings/2024/ResearchRanking.html',
+        'https://www.nirfindia.org/Rankings/2024/EngineeringRanking.html',
+        'https://www.nirfindia.org/Rankings/2024/ManagementRanking.html',
+        'https://www.nirfindia.org/Rankings/2024/PharmacyRanking.html',
+        'https://www.nirfindia.org/Rankings/2024/MedicalRanking.html',
+        'https://www.nirfindia.org/Rankings/2024/DentalRanking.html',
+        'https://www.nirfindia.org/Rankings/2024/LawRanking.html',
+        'https://www.nirfindia.org/Rankings/2024/ArchitectureRanking.html',
+        'https://www.nirfindia.org/Rankings/2024/AgricultureRanking.html',
+        'https://www.nirfindia.org/Rankings/2024/InnovationRanking.html'
         ]
-
+    
+    outpaths = []
+    
     for url in urls:
         ## Pathlib isn't great with 
         # category = Path(url).stem.removesuffix('Ranking')
         category = url.removesuffix('Ranking.html').split('/')[-1]
         outpath = category + '.csv'
+        outpaths.append( outpath )
         if os.path.exists( outpath ):
             print( "Path exists, skipping:", outpath )
             continue
@@ -62,6 +65,22 @@ def main():
                 out.writerow( row + [category] )
         
         print( "Wrote:", outpath )
+    
+    ## Merge them into "All.csv"
+    ## Via: <https://stackoverflow.com/questions/2512386/how-can-i-merge-200-csv-files-in-python>
+    if len( outpaths ) == 0: return
+    assert "All.csv" not in outpaths
+    with open( "All.csv", "wb" ) as allfile:
+        ## First file:
+        with open( outpaths[0], "rb" ) as f:
+            allfile.writelines( f )
+        ## Rest:
+        for outpath in outpaths[1:]:
+            with open( outpath, "rb" ) as f:
+                next(f) # skip the header
+                allfile.writelines( f )
+    
+    print( "Wrote:", "All.csv" )
 
 ## Thanks, ChatGPT
 def table_from_URL( url, prefix = '' ):

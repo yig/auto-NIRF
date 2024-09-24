@@ -1,202 +1,201 @@
 Name,City,State,Rank,Category
-Indian Institute of Science,Bengaluru,Karnataka,1,University
+"Indian Institute of Science, Bengaluru",Bengaluru,Karnataka,1,University
 Jawaharlal Nehru University,New Delhi,Delhi,2,University
 Jamia Millia Islamia,New Delhi,Delhi,3,University
-Jadavpur University,Kolkata,West Bengal,4,University
+"Manipal Academy of Higher Education, Manipal",Manipal,Karnataka,4,University
 Banaras Hindu University,Varanasi,Uttar Pradesh,5,University
-Manipal Academy of Higher Education-Manipal,Manipal,Karnataka,6,University
+University of Delhi,Delhi,Delhi,6,University
 Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,7,University
-Vellore Institute of Technology,Vellore,Tamil Nadu,8,University
-Aligarh Muslim University,Aligarh,Uttar Pradesh,9,University
-University of Hyderabad,Hyderabad,Telangana,10,University
-University of Delhi,Delhi,Delhi,11,University
-Calcutta University,Kolkata,West Bengal,12,University
-Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,13,University
-Anna University,Chennai,Tamil Nadu,14,University
-Siksha `O` Anusandhan,Bhubaneswar,Odisha,15,University
-Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,16,University
-Homi Bhabha National Institute,Mumbai,Maharashtra,17,University
-S.R.M. Institute of Science and Technology,Chennai,Tamil Nadu,18,University
-Savitribai Phule Pune University,Pune,Maharashtra,19,University
-Birla Institute of Technology  & Science -Pilani,Pilani,Rajasthan,20,University
-Bharathiar University,Coimbatore,Tamil Nadu,21,University
-Thapar Institute of Engineering and Technology (Deemed-to-be-university),Patiala,Punjab,22,University
-Institute of Chemical Technology,Mumbai,Maharashtra,23,University
-Kerala University,Thiruvananthapuram,Kerala,24,University
-Panjab University,Chandigarh,Chandigarh,25,University
-Shanmugha Arts Science Technology & Research Academy,Thanjavur,Tamil Nadu,26,University
-Chandigarh University,Mohali,Punjab,27,University
-Koneru Lakshmaiah Education Foundation University (K L College of Engineering),Vaddeswaram,Andhra Pradesh,28,University
-Kalasalingam Academy of Research and Education,Srivilliputtur,Tamil Nadu,29,University
-Alagappa University,Karaikudi,Tamil Nadu,30,University
-"Mahatma Gandhi University, Kottayam",Kottayam,Kerala,31,University
-Symbiosis International,Pune,Maharashtra,32,University
-University of Kashmir,Srinagar,Jammu and Kashmir,33,University
-JSS Academy of Higher Education and Research,Mysuru,Karnataka,34,University
-Amity University,Gautam Budh Nagar,Uttar Pradesh,35,University
-Osmania University,Hyderabad,Telangana,36,University
-Cochin University of Science and Technology,Cochin,Kerala,37,University
-Lovely Professional University,Phagwara,Punjab,38,University
-Datta Meghe Institute of Higher Education and Research,Wardha,Maharashtra,39,University
-Delhi Technological University,New Delhi,Delhi,40,University
-Bharathidasan University,Tiruchirappalli,Tamil Nadu,41,University
-Babasheb Bhimrao Ambedkar University,Lucknow,Uttar Pradesh,42,University
-"Andhra University, Visakhapatnam",Visakhapatnam,Andhra Pradesh,43,University
-Mysore University,Mysuru,Karnataka,44,University
-King George`s Medical University,Lucknow,Uttar Pradesh,45,University
-Dr. D. Y. Patil Vidyapeeth,Pune,Maharashtra,46,University
-SVKM`s Narsee Monjee Institute of Management Studies,Mumbai,Maharashtra,47,University
-Guru Nanak Dev University,Amritsar,Punjab,48,University
-Jamia Hamdard,New Delhi,Delhi,49,University
-University of Madras,Chennai,Tamil Nadu,50,University
+Aligarh Muslim University,Aligarh,Uttar Pradesh,8,University
+Jadavpur University,Kolkata,West Bengal,9,University
+Vellore Institute of Technology,Vellore,Tamil Nadu,10,University
+Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,11,University
+S.R.M. Institute of Science and Technology,Chennai,Tamil Nadu,12,University
+Anna University,Chennai,Tamil Nadu,13,University
+Siksha `O` Anusandhan,Bhubaneswar,Odisha,14,University
+Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,15,University
+Homi Bhabha National Institute,Mumbai,Maharashtra,16,University
+University of Hyderabad,Hyderabad,Telangana,17,University
+Calcutta University,Kolkata,West Bengal,18,University
+"Birla Institute of Technology and Science, Pilani",Pilani,Rajasthan,19,University
+Chandigarh University,Mohali,Punjab,20,University
+Kerala University,Thiruvananthapuram,Kerala,21,University
+Koneru Lakshmaiah Education Foundation University (K L College of Engineering),Vaddeswaram,Andhra Pradesh,22,University
+Savitribai Phule Pune University,Pune,Maharashtra,23,University
+JSS Academy of Higher Education and Research,Mysuru,Karnataka,24,University
+Andhra University,Visakhapatnam,Andhra Pradesh,25,University
+Bharathiar University,Coimbatore,Tamil Nadu,26,University
+Lovely Professional University,Phagwara,Punjab,27,University
+Shanmugha Arts Science Technology and Research Academy,Thanjavur,Tamil Nadu,28,University
+Thapar Institute of Engineering and Technology (Deemed-to-be-university),Patiala,Punjab,29,University
+Kalasalingam Academy of Research and Education,Srivilliputhur,Tamil Nadu,30,University
+Symbiosis International,Pune,Maharashtra,31,University
+Amity University,Gautam Budh Nagar,Uttar Pradesh,32,University
+Babasaheb Bhimrao Ambedkar University,Lucknow,Uttar Pradesh,33,University
+Cochin University of Science and Technology,Cochin,Kerala,34,University
+Institute of Chemical Technology,Mumbai,Maharashtra,35,University
+Bharathidasan University,Tiruchirappalli,Tamil Nadu,36,University
+Mahatma Gandhi University,Kottayam,Kerala,37,University
+Panjab University,Chandigarh,Chandigarh,38,University
+University of Madras,Chennai,Tamil Nadu,39,University
+Gauhati University,Guwahati,Assam,40,University
+Jamia Hamdard,New Delhi,Delhi,40,University
+Datta Meghe Institute of Higher Education and Research,Wardha,Maharashtra,42,University
+Osmania University,Hyderabad,Telangana,43,University
+Dr. D. Y. Patil Vidyapeeth,Pune,Maharashtra,44,University
+University of Kashmir,Srinagar,Jammu and Kashmir,45,University
+UPES,Dehradun,Uttarakhand,46,University
+Alagappa University,Karaikudi,Tamil Nadu,47,University
+Delhi Technological University,New Delhi,Delhi,48,University
+SVKM`s Narsee Monjee Institute of Management Studies,Mumbai,Maharashtra,49,University
+University of Jammu,Jammu,Jammu and Kashmir,50,University
 Sathyabama Institute of Science and Technology,Chennai,Tamil Nadu,51,University
-UPES,Dehradun,Uttarakhand,52,University
-Madurai Kamaraj University,Madurai,Tamil Nadu,53,University
-"Punjab Agricultural University, Ludhiana",Ludhiana,Punjab,54,University
-Graphic Era University,Dehradun,Uttarakhand,55,University
-Mumbai University,Mumbai,Maharashtra,56,University
-Sri Ramachandra Institute of Higher Education and Research,Chennai,Tamil Nadu,57,University
-Banasthali Vidyapith,Banasthali,Rajasthan,58,University
-Periyar University,Salem,Tamil Nadu,59,University
-Sri Venkateswara University,Tirupati,Andhra Pradesh,60,University
-Gujarat University,Ahmedabad,Gujarat,61,University
+Graphic Era University,Dehradun,Uttarakhand,52,University
+King George`s Medical University,Lucknow,Uttar Pradesh,53,University
+Mysore University,Mysuru,Karnataka,54,University
+Sri Ramachandra Institute of Higher Education and Research,Chennai,Tamil Nadu,55,University
+Periyar University,Salem,Tamil Nadu,56,University
+Punjab Agricultural University,Ludhiana,Punjab,57,University
+Tata Institute of Social Sciences,Mumbai,Maharashtra,58,University
+Acharya Nagarjuna University,Guntur,Andhra Pradesh,59,University
+Christ University,Bengaluru,Karnataka,60,University
+Mumbai University,Mumbai,Maharashtra,61,University
 Shiv Nadar University,Gautam Buddha Nagar,Uttar Pradesh,62,University
-University of Jammu,Jammu,Jammu and Kashmir,63,University
-Visvesvaraya Technological University,Belgaum,Karnataka,63,University
-NITTE,Mangaluru,Karnataka,65,University
-Bharath Institute of Higher Education & Research,Chennai,Tamil Nadu,66,University
-Christ University,Bengaluru,Karnataka,67,University
-"Jain university,Bangalore",Bengaluru,Karnataka,68,University
+Madurai Kamaraj University,Madurai,Tamil Nadu,63,University
+"Manipal University, Jaipur",Jaipur,Rajasthan,64,University
+"Jain University, Bangalore",Bengaluru,Karnataka,65,University
+NITTE,Mangaluru,Karnataka,66,University
+Banasthali Vidyapith,Banasthali,Rajasthan,67,University
+Sri Balaji Vidyapeeth Mahatma Gandhi Medical College,Puducherry,Pondicherry,68,University
 Tezpur University,Tezpur,Assam,69,University
-"Calicut University, Thenhipalem, Malapuram",Malappuram,Kerala,70,University
-Birla Institute of Technology,Ranchi,Jharkhand,71,University
-Tamil Nadu Agricultural University,Coimbatore,Tamil Nadu,72,University
-Shoolini University of Biotechnology and Management Sciences,Solan,Himachal Pradesh,73,University
-Guru Gobind Singh Indraprastha University,New Delhi,Delhi,74,University
-"Vignan's Foundation for Science, Technology and Research",Guntur,Andhra Pradesh,75,University
-Mizoram University,Aizawl,Mizoram,76,University
-Sri Balaji Vidyapeeth Mahatma Gandhi Medical College Campus,Puducherry,Pondicherry,77,University
-Maharishi Markandeshwar,Ambala,Haryana,78,University
-"G.B. Pant Universtiy of Agriculture and Technology, Pantnagar",Pantnagar,Uttarakhand,79,University
-North Eastern Hill University,Shillong,Meghalaya,80,University
-Avinashilingam Institute for Home Science & Higher Education for Women,Coimbatore,Tamil Nadu,81,University
-Chettinad Academy of Research and Education,"Kelambakkam, Chengalpattu District",Tamil Nadu,82,University
-"Manonmaniam Sundaranar University, Tirunelveli",Tirunelveli,Tamil Nadu,83,University
-International Institute of Information Technology Hyderabad,Hyderabad,Telangana,84,University
-Yenepoya University,Mangaluru,Karnataka,85,University
-The University of Burdwan,Bardhaman,West Bengal,86,University
-Sharda University,Greater Noida,Uttar Pradesh,87,University
-Gauhati University,Guwahati,Assam,88,University
-Central University of Tamil Nadu,Tiruvarur,Tamil Nadu,89,University
-"University of Agricultural Sciences, Bangalore",Bangalore,Karnataka,90,University
-Bharati Vidyapeeth,Pune,Maharashtra,91,University
-Dr. M. G. R. Educational and Research Institute,Chennai,Tamil Nadu,92,University
-Utkal University,Bhubaneswar,Odisha,93,University
-"Amity University Haryana, Gurgaon",Gurugram,Haryana,94,University
-Netaji Subhas University of Technology (NSUT),South West,Delhi,95,University
-Maharshi Dayanand University,Rohtak,Haryana,96,University
-Visva Bharati,Santiniketan,West Bengal,97,University
-Tata Institute of Social Sciences,Mumbai,Maharashtra,98,University
-Chaudhary Charan Singh Haryana Agricultural University,Hisar,Haryana,99,University
-Central University of Punjab,Bathinda,Punjab,100,University
-"Acharya NG Ranga Agricultural University, Guntur",Guntur,Andhra Pradesh,101-150,University
+Shoolini University of Biotechnology and Management Sciences,Solan,Himachal Pradesh,70,University
+Maharishi Markandeshwar (Deemed to be University),Ambala,Haryana,71,University
+"Vignan's Foundation for Science, Technology and Research",Guntur,Andhra Pradesh,72,University
+Bharath Institute of Higher Education and Research,Chennai,Tamil Nadu,73,University
+International Institute of Information Technology Hyderabad,Hyderabad,Telangana,74,University
+Visvesvaraya Technological University,Belgaum,Karnataka,75,University
+Gujarat University,Ahmedabad,Gujarat,76,University
+Mizoram University,Aizawl,Mizoram,77,University
+Bharati Vidyapeeth,Pune,Maharashtra,78,University
+Chettinad Academy of Research and Education,"Kelambakkam, Chengalpattu District",Tamil Nadu,79,University
+Guru Gobind Singh Indraprastha University,New Delhi,Delhi,80,University
+Bangalore University,Bengaluru,Karnataka,81,University
+Birla Institute of Technology,Ranchi,Jharkhand,82,University
+Central University of Punjab,Bathinda,Punjab,83,University
+Tamil Nadu Agricultural University,Coimbatore,Tamil Nadu,84,University
+Sant Longowal Institute of Engineering and Technology,Longowal,Punjab,85,University
+Sharda University,Greater Noida,Uttar Pradesh,86,University
+Sri Venkateswara University,Tirupati,Andhra Pradesh,87,University
+G.B. Pant Universtiy of Agriculture and Technology,Pantnagar,Uttarakhand,88,University
+Calicut University,Malappuram,Kerala,89,University
+University of Agricultural Sciences,Bengaluru,Karnataka,90,University
+Chitkara University,Rajpura,Punjab,90,University
+Manav Rachna International Institute of Research and Studies,Faridabad,Haryana,92,University
+"Manonmaniam Sundaranar University, Tirunelveli",Tirunelveli,Tamil Nadu,93,University
+Madan Mohan Malaviya University of Technology,Gorakhpur,Uttar Pradesh,94,University
+Yenepoya University,Mangaluru,Karnataka,95,University
+Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology,Chennai,Tamil Nadu,96,University
+University of Lucknow,Lucknow,Uttar Pradesh,97,University
+Avinashilingam Institute for Home Science and Higher Education for Women,Coimbatore,Tamil Nadu,98,University
+Central University of Tamil Nadu,Tiruvarur,Tamil Nadu,99,University
+Netaji Subhas University of Technology (NSUT),Delhi,Delhi,100,University
+Acharya N G Ranga Agricultural University,Guntur,Andhra Pradesh,101-150,University
+"Amity University Haryana, Gurgaon","Gurugram, Haryana",Haryana,101-150,University
 Annamalai University,Annamalainagar,Tamil Nadu,101-150,University
-Anurag University,Hyderabad,Telangana,101-150,University
 Ashoka University,Sonepat,Haryana,101-150,University
-Assam University-Silchar,Silchar,Assam,101-150,University
+"Assam University, Silchar",Silchar,Assam,101-150,University
 BLDE,Vijayapura,Karnataka,101-150,University
 "C.V. Raman Global University, Odisha",Bhubaneswar,Odisha,101-150,University
 Central University of Kerala,Kasaragod,Kerala,101-150,University
-Chitkara  University,Rajpura,Punjab,101-150,University
+Chaudhary Charan Singh Haryana Agricultural University,Hisar,Haryana,101-150,University
+COEP Technological University,Pune,Maharashtra,101-150,University
 D. Y. Patil Educational Society,Kolhapur,Maharashtra,101-150,University
 Dayalbagh Educational Institute,Agra,Uttar Pradesh,101-150,University
 Devi Ahilya Vishwavidyalaya,Indore,Madhya Pradesh,101-150,University
 Dibrugarh University,Dibrugarh,Assam,101-150,University
-"Dr. Babasaheb Ambedkar Marathwada University, Aurangabad",Aurangabad,Maharashtra,101-150,University
-"Dr. Y.S. Parmar University of Horticulture and Forestry, Solan",Solan,Himachal Pradesh,101-150,University
+Dr. Babasaheb Ambedkar Marathwada University,Aurangabad,Maharashtra,101-150,University
+Dr. M. G. R. Educational and Research Institute,Chennai,Tamil Nadu,101-150,University
 G. L. A. University,Mathura,Uttar Pradesh,101-150,University
 Galgotias University,Gautam Budh Nagar,Uttar Pradesh,101-150,University
 Gandhi Institute of Technology and Management,Visakhapatnam,Andhra Pradesh,101-150,University
-Goa University,Goa,Goa,101-150,University
-"Guru Jambheshwar University of Science and Technology, Hissar",Hisar,Haryana,101-150,University
-Hindustan Institute of Technology  and Science (HITS),Chennai,Tamil Nadu,101-150,University
-Indraprastha Institute of Information Technology Delhi,New Delhi,Delhi,101-150,University
-Jawaharlal Nehru Technological University,Kakinada,Andhra Pradesh,101-150,University
+Guru Jambheshwar University of Science and Technology,Hisar,Haryana,101-150,University
+Hindustan Institute of Technology and Science (HITS),Chennai,Tamil Nadu,101-150,University
+Indian Institute of Space Science and Technology,Thiruvananthapuram,Kerala,101-150,University
+Integral University,Lucknow,Uttar Pradesh,101-150,University
 "Kalinga University, Raipur",Raipur,Chhattisgarh,101-150,University
-Kalyani University,Kalyani,West Bengal,101-150,University
 Karunya Institute of Technology and Sciences,Coimbatore,Tamil Nadu,101-150,University
-"Kerala Agricultural University, Thrissur",Thrissur,Kerala,101-150,University
 KLE Academy of Higher Education and Research,Belagavi,Karnataka,101-150,University
-"Krishna Vishwa Vidyapeeth, Karad, Maharashtra",Karad,Maharashtra,101-150,University
+Krishna Vishwa Vidyapeeth,Karad,Maharashtra,101-150,University
 Kurukshetra University,Kurukshetra,Haryana,101-150,University
 Kuvempu University,Shivamogga,Karnataka,101-150,University
-Maharaja Sayajirao University of Baroda,Vadodara,Gujarat,101-150,University
-Manav Rachna International Institute of Research & Studies,Faridabad,Haryana,101-150,University
+Maharshi Dayanand University,Rohtak,Haryana,101-150,University
 Mangalore University,Mangalore,Karnataka,101-150,University
-Manipal University Jaipur,Jaipur,Rajasthan,101-150,University
 Manipur University,Imphal,Manipur,101-150,University
 Meenakshi Academy of Higher Education and Research,Chennai,Tamil Nadu,101-150,University
+"NIMS University, Jaipur",Jaipur,Rajasthan,101-150,University
 Nirma University,Ahmedabad,Gujarat,101-150,University
-"Orissa University of Agriculture & Technology, Bhubaneswar",Khordha,Odisha,101-150,University
+North Eastern Hill University,Shillong,Meghalaya,101-150,University
+Odisha University of Agriculture and Technology,Khordha,Odisha,101-150,University
 "Padmashree Dr. D. Y. Patil Vidyapeeth, Mumbai",Mumbai,Maharashtra,101-150,University
+Pandit Deendayal Energy University,Gandhinagar,Gujarat,101-150,University
+Parul University,Vadodara,Gujarat,101-150,University
 Pondicherry University,Puducherry,Pondicherry,101-150,University
 Presidency University,Kolkata,West Bengal,101-150,University
-Sikkim Manipal University,Gangtok,Sikkim,101-150,University
+"Sambalpur University, Sambalpur",Sambalpur,Odisha,101-150,University
 SR University,Warangal,Telangana,101-150,University
-Tamil Nadu Veterinary & Animal Sciences University,Chennai,Tamil Nadu,101-150,University
-University of Lucknow,Lucknow,Uttar Pradesh,101-150,University
-Veer Surendra Sai University of Technology,Burla,Odisha,101-150,University
-Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology,Chennai,Tamil Nadu,101-150,University
-Vels Institute of Science Technology & Advanced Studies (VISTAS),Chennai,Tamil Nadu,101-150,University
-Vidyasagar University,Midnapore,West Bengal,101-150,University
-Ahmedabad University,Ahmedabad,Gujarat,151-200,University
+Sri Padmavathi Mahila Visvavidyalayam,Tirupati,Andhra Pradesh,101-150,University
+Suresh Gyan Vihar University,Jaipur,Rajasthan,101-150,University
+University of Burdwan,Bardhaman,West Bengal,101-150,University
+Utkal University,Bhubaneswar,Odisha,101-150,University
+Vels Institute of Science Technology and Advanced Studies (VISTAS),Chennai,Tamil Nadu,101-150,University
+Visva Bharati,Santiniketan,West Bengal,101-150,University
+Amity University,North Twenty Four Parganas,West Bengal,151-200,University
 "Amity University Rajasthan,Jaipur",Jaipur,Rajasthan,151-200,University
-Anand Agricultural University,Anand,Gujarat,151-200,University
-B. S. Abdur Rahman Crescent Institute of Science and Technology,Chennai,Tamil Nadu,151-200,University
+Anurag University,Hyderabad,Telangana,151-200,University
 Central Agricultural University,Imphal West,Manipur,151-200,University
-Central University of Karnataka,Gulbarga,Karnataka,151-200,University
+Central Sanskrit University,Delhi,Delhi,151-200,University
 Central University of Rajasthan,Kishangarh,Rajasthan,151-200,University
+Centurion University of Technology and Management,Paralakhemundi,Odisha,151-200,University
 Charotar University of Science & Technology,Changa,Gujarat,151-200,University
+Chaudhary Charan Singh University Meerut,MEERUT,Uttar Pradesh,151-200,University
 Chaudhary Sarwan Kumar Himachal Pardesh Krishi Vishvavidyalaya,Kangra,Himachal Pradesh,151-200,University
 Dharmsinh Desai University,Nadiad,Gujarat,151-200,University
-"Dr Rajendra Prasad Central Agricultural University, Samastipur",Samastipur,Bihar,151-200,University
-English & Foreign Languages University,Hyderabad,Telangana,151-200,University
+Dr Rajendra Prasad Central Agricultural University,Samastipur,Bihar,151-200,University
+Dr. Y.S. Parmar University of Horticulture and Forestry,Solan,Himachal Pradesh,151-200,University
 Fakir Mohan University,Balasore,Odisha,151-200,University
-Guru Angad Dev Veterinary & Animal Sciences University,Ludhiana,Punjab,151-200,University
-JSS Science and Technology University,Mysuru,Karnataka,151-200,University
-Kakatiya University,Hanumakonda,Telangana,151-200,University
+Glocal University,Saharanpur,Uttar Pradesh,151-200,University
+Goa University,Goa,Goa,151-200,University
+Guru Angad Dev Veterinary and Animal Sciences University,Ludhiana,Punjab,151-200,University
+Indraprastha Institute of Information Technology,New Delhi,Delhi,151-200,University
+Jawaharlal Nehru Technological University,Ananthapuramu,Andhra Pradesh,151-200,University
+Kalyani University,Kalyani,West Bengal,151-200,University
 Kannur University,Kannur,Kerala,151-200,University
-"Karnataka Vetrinary, Animal & Fisheries Science University, Nandinagar",Bidar,Karnataka,151-200,University
 Karpagam Academy of Higher Education,Coimbatore,Tamil Nadu,151-200,University
+Kerala Agricultural University,Thrissur,Kerala,151-200,University
 KLE Technological University,Dharwad,Karnataka,151-200,University
 LNCT University,Bhopal,Madhya Pradesh,151-200,University
-"Maharashi Markandeshwar University, Solan",Solan,Himachal Pradesh,151-200,University
-"Mahatma Phule Krishi Vidyapeeth, Rahuri",Rahuri,Maharashtra,151-200,University
+M.S. Ramaiah University of Applied Sciences,Bengaluru,Karnataka,151-200,University
+Maharaja Sayajirao University of Baroda,Vadodara,Gujarat,151-200,University
+"Mahatma Gandhi University of Medical Sciences & Technology, Jaipur",Jaipur,Rajasthan,151-200,University
 Maulana Azad National Urdu University,Hyderabad,Telangana,151-200,University
 "MGM Institute of Health Sciences, Navi  Mumbai",Navi Mumbai,Maharashtra,151-200,University
-Pandit Deendayal Energy University,Gandhinagar,Gujarat,151-200,University
-Parul University,Vadodara,Gujarat,151-200,University
+Mohan Lal Sukhadia University,Udaipur,Rajasthan,151-200,University
+PES University,Bengaluru,Karnataka,151-200,University
 "Pravara Institute of Medical Sciences, Ahmednagar",Ahmednagar,Maharashtra,151-200,University
-Pt. Ravishankar Shukla University,Raipur,Chhattisgarh,151-200,University
 Rabindranath Tagore University,Raisen,Madhya Pradesh,151-200,University
-"Rajasthan University of Health Sciences, Jaipur",Jaipur,Rajasthan,151-200,University
-"Rashtriya Sanskrit Sansthan, New Delhi",Delhi,Delhi,151-200,University
-Sant Longowal Institute of Engineering & Technology,Longowal,Punjab,151-200,University
+Rashtrasant Tukadoji Maharaj Nagpur University,Nagpur,Maharashtra,151-200,University
+Ravenshaw University,Cuttack,Odisha,151-200,University
+Santosh University,Ghaziabad,Uttar Pradesh,151-200,University
+Sher-e-Kashmir University of Agricultural Science and Technology of Jammu,Jammu,Jammu and Kashmir,151-200,University
 Shivaji University,Kolhapur,Maharashtra,151-200,University
-Shri Mata Vaishno Devi University,Katra,Jammu and Kashmir,151-200,University
+Sikkim Manipal University,Gangtok,Sikkim,151-200,University
 Sikkim University,Gangtok,Sikkim,151-200,University
-Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya,Kancheepuram,Tamil Nadu,151-200,University
 Sri Devraj Urs Academy of Higher Education and Research,Kolar,Karnataka,151-200,University
-Sri Karan Narendra Agriculture University,JOBNER,Rajasthan,151-200,University
-Sri Padmavathi Mahila Visvavidyalayam,Tirupathi,Andhra Pradesh,151-200,University
-Sri Sathya Sai Institute of Higher Learning,Anantapur,Andhra Pradesh,151-200,University
-Sri Venkateswara Institute of Medical Sciences,Tirupati,Andhra Pradesh,151-200,University
+Sri Sathya Sai Institute of Higher Learning,Prasanthi Nilayam,Andhra Pradesh,151-200,University
 "Sumandeep Vidyapeeth, Vadodara",Vadodara,Gujarat,151-200,University
-Suresh Gyan Vihar University,Jaipur,Rajasthan,151-200,University
-The Northcap University,Gurugram,Haryana,151-200,University
-The Rashtrasant Tukadoji Maharaj Nagpur University,Nagpur,Maharashtra,151-200,University
+Tamil Nadu Veterinary and Animal Sciences University,Chennai,Tamil Nadu,151-200,University
 University of Agricultural Sciences,Dharwad,Karnataka,151-200,University
-"University of Agricultural Sciences, Raichur",Raichur,Karnataka,151-200,University
 University of Science and Technology,Ribhoi,Meghalaya,151-200,University
+Veer Surendra Sai University of Technology,Burla,Odisha,151-200,University
+Vidyasagar University,Midnapore,West Bengal,151-200,University
 Vinayaka Mission's Research Foundation,Salem,Tamil Nadu,151-200,University
-Yogi Vemana University,Kadapa,Andhra Pradesh,151-200,University

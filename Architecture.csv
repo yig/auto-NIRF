@@ -1,31 +1,41 @@
 Name,City,State,Rank,Category
 Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,1,Architecture
-National Institute of Technology Calicut,Kozhikode,Kerala,2,Architecture
-Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,3,Architecture
-National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,4,Architecture
+Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,2,Architecture
+National Institute of Technology Calicut,Kozhikode,Kerala,3,Architecture
+"Indian Institute of Engineering Science and Technology, Shibpur",Howrah,West Bengal,4,Architecture
 School of Planning and Architecture New Delhi,New Delhi,Delhi,5,Architecture
-"Jamia Millia Islamia,New Delhi",New Delhi,Delhi,6,Architecture
-Centre for Environmental Planning and Technology University,Ahmedabad,Gujarat,7,Architecture
-National Institute of Technology Rourkela,Rourkela,Odisha,8,Architecture
-Aligarh Muslim University,Aligarh,Uttar Pradesh,9,Architecture
-"Indian Institute of Engineering Science and Technology, Shibpur",Howrah,West Bengal,10,Architecture
-School of Planning and Architecture Bhopal,Bhopal,Madhya Pradesh,11,Architecture
-"Visvesvaraya National Institute of Technology, Nagpur",Nagpur,Maharashtra,12,Architecture
-Malaviya National Institute of Technology,Jaipur,Rajasthan,13,Architecture
-S.R.M. Institute of Science and Technology,Chennai,Tamil Nadu,14,Architecture
-Chandigarh University,Mohali,Punjab,15,Architecture
-Lovely Professional University,Phagwara,Punjab,16,Architecture
-College of Engineering Trivandrum,Thiruvananthapuram,Kerala,17,Architecture
-"School of Planning & Architecture, Vijayawada",Vijayawada,Andhra Pradesh,18,Architecture
-National Institute of Technology Patna,Patna,Bihar,19,Architecture
+Centre for Environmental Planning and Technology University,Ahmedabad,Gujarat,6,Architecture
+Jamia Millia Islamia,New Delhi,Delhi,7,Architecture
+National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,8,Architecture
+National Institute of Technology Rourkela,Rourkela,Odisha,9,Architecture
+Visvesvaraya National Institute of Technology Nagpur,Nagpur,Maharashtra,10,Architecture
+S.R.M. Institute of Science and Technology,Chennai,Tamil Nadu,11,Architecture
+School of Planning and Architecture Bhopal,Bhopal,Madhya Pradesh,12,Architecture
+Chandigarh University,Mohali,Punjab,13,Architecture
+Aligarh Muslim University,Aligarh,Uttar Pradesh,14,Architecture
+Malaviya National Institute of Technology,Jaipur,Rajasthan,15,Architecture
+School of Planning and Architecture Vijayawada,Vijayawada,Andhra Pradesh,16,Architecture
+Maulana Azad National Institute of Technology,Bhopal,Madhya Pradesh,17,Architecture
+"College of Engineering, Trivandrum",Thiruvananthapuram,Kerala,18,Architecture
+Nirma University,Ahmedabad,Gujarat,19,Architecture
 Birla Institute of Technology,Ranchi,Jharkhand,20,Architecture
-BMS College of Architecture,Bengaluru,Karnataka,21,Architecture
-Nirma University,Ahmedabad,Gujarat,22,Architecture
-M. S. Ramaiah Institute of Technology,Bengaluru,Karnataka,23,Architecture
-Maulana Azad National Institute of Technology,Bhopal,Madhya Pradesh,24,Architecture
-"Manipal School of Architecture and Planning, MAHE",Udupi,Karnataka,25,Architecture
-Shri Mata Vaishno Devi University,Katra,Jammu and Kashmir,26,Architecture
-Dr. M. G. R. Educational and Research Institute,Chennai,Tamil Nadu,27,Architecture
-National Institute of Technology Hamirpur,Hamirpur,Himachal Pradesh,28,Architecture
-Chandigarh College of Architecture Sector-12,Chandigarh,Chandigarh,29,Architecture
-Chitkara  University,Rajpura,Punjab,30,Architecture
+M. S. Ramaiah Institute of Technology,Bengaluru,Karnataka,21,Architecture
+Dr. M. G. R. Educational and Research Institute,Chennai,Tamil Nadu,22,Architecture
+BMS College of Architecture,Bengaluru,Karnataka,23,Architecture
+Lovely Professional University,Phagwara,Punjab,24,Architecture
+Amity University,North Twenty Four Parganas,West Bengal,25,Architecture
+Thiagarajar College of Engineering,Madurai,Tamil Nadu,25,Architecture
+National Institute of Technology Patna,Patna,Bihar,27,Architecture
+"Manipal School of Architecture and Planning, MAHE",Udupi,Karnataka,28,Architecture
+Guru Gobind Singh Indraprastha University,New Delhi,Delhi,29,Architecture
+"Chandigarh College of Architecture, Sector-12",Chandigarh,Chandigarh,30,Architecture
+Shri Mata Vaishno Devi University,Katra,Jammu and Kashmir,31,Architecture
+National Institute of Technology Hamirpur,Hamirpur,Himachal Pradesh,32,Architecture
+"Manipal University, Jaipur",Jaipur,Rajasthan,33,Architecture
+Anna University,Chennai,Tamil Nadu,34,Architecture
+Chitkara University,Rajpura,Punjab,35,Architecture
+National Institute of Technology Raipur,Raipur,Chhattisgarh,36,Architecture
+Anant National University,Ahmedabad,Gujarat,37,Architecture
+"BMS School of Architecture, Yelahanka",Bengaluru,Karnataka,38,Architecture
+Gandhi Institute of Technology and Management,Visakhapatnam,Andhra Pradesh,39,Architecture
+B. S. Abdur Rahman Crescent Institute of Science and Technology,Chennai,Tamil Nadu,40,Architecture

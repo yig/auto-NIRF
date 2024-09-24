@@ -1,201 +1,201 @@
 Name,City,State,Rank,Category
 Indian Institute of Technology Madras,Chennai,Tamil Nadu,1,Overall
-Indian Institute of Science,Bengaluru,Karnataka,2,Overall
-Indian Institute of Technology Delhi,New Delhi,Delhi,3,Overall
-Indian Institute of Technology Bombay,Mumbai,Maharashtra,4,Overall
+"Indian Institute of Science, Bengaluru",Bengaluru,Karnataka,2,Overall
+Indian Institute of Technology Bombay,Mumbai,Maharashtra,3,Overall
+Indian Institute of Technology Delhi,New Delhi,Delhi,4,Overall
 Indian Institute of Technology Kanpur,Kanpur,Uttar Pradesh,5,Overall
-"All India Institute of Medical Sciences, Delhi",New Delhi,Delhi,6,Overall
-Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,7,Overall
+Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,6,Overall
+All India Institute of Medical Sciences Delhi,New Delhi,Delhi,7,Overall
 Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,8,Overall
 Indian Institute of Technology Guwahati,Guwahati,Assam,9,Overall
 Jawaharlal Nehru University,New Delhi,Delhi,10,Overall
 Banaras Hindu University,Varanasi,Uttar Pradesh,11,Overall
-"Jamia Millia Islamia,New Delhi",New Delhi,Delhi,12,Overall
-Jadavpur University,Kolkata,West Bengal,13,Overall
-Indian Institute of Technology Hyderabad,Hyderabad,Telangana,14,Overall
-Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,15,Overall
-Manipal Academy of Higher Education-Manipal,Manipal,Karnataka,16,Overall
-Vellore Institute of Technology,Vellore,Tamil Nadu,17,Overall
-Anna University,Chennai,Tamil Nadu,18,Overall
-Aligarh Muslim University,Aligarh,Uttar Pradesh,19,Overall
-University of Hyderabad,Hyderabad,Telangana,20,Overall
-National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,21,Overall
-University of Delhi,Delhi,Delhi,22,Overall
-Calcutta University,Kolkata,West Bengal,23,Overall
-Indian Institute of Technology Gandhinagar,Gandhinagar,Gujarat,24,Overall
-Birla Institute of Technology  & Science -Pilani,Pilani,Rajasthan,25,Overall
-Siksha `O` Anusandhan,Bhubaneswar,Odisha,26,Overall
-Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,27,Overall
-Indian Institute of Technology Indore,Indore,Madhya Pradesh,28,Overall
-Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,29,Overall
-Homi Bhabha National Institute,Mumbai,Maharashtra,30,Overall
-Indian Institute of Technology (Banaras Hindu University) Varanasi,Varanasi,Uttar Pradesh,31,Overall
-S.R.M. Institute of Science and Technology,Chennai,Tamil Nadu,32,Overall
-Indian Institute of Technology Ropar,Rupnagar,Punjab,33,Overall
-Indian Institute of Science Education & Research Pune,Pune,Maharashtra,34,Overall
-Savitribai Phule Pune University,Pune,Maharashtra,35,Overall
-Bharathiar University,Coimbatore,Tamil Nadu,36,Overall
-National Institute of Technology Rourkela,Rourkela,Odisha,37,Overall
-"National Institute of Technology Karnataka, Surathkal",Surathkal,Karnataka,38,Overall
-Jawaharlal Institute of Post Graduate Medical Education & Research,Puducherry,Pondicherry,39,Overall
-Thapar Institute of Engineering and Technology (Deemed-to-be-university),Patiala,Punjab,40,Overall
-Institute of Chemical Technology,Mumbai,Maharashtra,41,Overall
-Indian Institute of Technology (Indian School of Mines),Dhanbad,Jharkhand,42,Overall
-Indian Institute of Science Education & Research Kolkata,Mohanpur,West Bengal,43,Overall
-Panjab University,Chandigarh,Chandigarh,44,Overall
-Chandigarh University,Mohali,Punjab,45,Overall
-Lovely Professional University,Phagwara,Punjab,46,Overall
-Kerala University,Thiruvananthapuram,Kerala,47,Overall
-Kalasalingam Academy of Research and Education,Srivilliputtur,Tamil Nadu,48,Overall
-Shanmugha Arts Science Technology & Research Academy,Thanjavur,Tamil Nadu,49,Overall
-Koneru Lakshmaiah Education Foundation University (K L College of Engineering),Vaddeswaram,Andhra Pradesh,50,Overall
-"Indian Institute of Science Education & Research, Mohali",Mohali,Punjab,51,Overall
-"Mahatma Gandhi University, Kottayam",Kottayam,Kerala,52,Overall
+Indian Institute of Technology Hyderabad,Hyderabad,Telangana,12,Overall
+Jamia Millia Islamia,New Delhi,Delhi,13,Overall
+"Manipal Academy of Higher Education, Manipal",Manipal,Karnataka,14,Overall
+University of Delhi,Delhi,Delhi,15,Overall
+Aligarh Muslim University,Aligarh,Uttar Pradesh,16,Overall
+Jadavpur University,Kolkata,West Bengal,17,Overall
+Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,18,Overall
+Vellore Institute of Technology,Vellore,Tamil Nadu,19,Overall
+Anna University,Chennai,Tamil Nadu,20,Overall
+S.R.M. Institute of Science and Technology,Chennai,Tamil Nadu,21,Overall
+Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,22,Overall
+"Birla Institute of Technology and Science, Pilani",Pilani,Rajasthan,23,Overall
+Siksha `O` Anusandhan,Bhubaneswar,Odisha,24,Overall
+University of Hyderabad,Hyderabad,Telangana,25,Overall
+Calcutta University,Kolkata,West Bengal,26,Overall
+Homi Bhabha National Institute,Mumbai,Maharashtra,27,Overall
+Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,28,Overall
+Indian Institute of Technology Gandhinagar,Gandhinagar,Gujarat,29,Overall
+Indian Institute of Technology (Banaras Hindu University) Varanasi,Varanasi,Uttar Pradesh,30,Overall
+National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,31,Overall
+Chandigarh University,Mohali,Punjab,32,Overall
+Indian Institute of Technology Indore,Indore,Madhya Pradesh,33,Overall
+National Institute of Technology Rourkela,Rourkela,Odisha,34,Overall
+Indian Institute of Technology (Indian School of Mines) Dhanbad,Dhanbad,Jharkhand,35,Overall
+JSS Academy of Higher Education and Research,Mysuru,Karnataka,36,Overall
+Savitribai Phule Pune University,Pune,Maharashtra,37,Overall
+Kerala University,Thiruvananthapuram,Kerala,38,Overall
+Jawaharlal Institute of Post Graduate Medical Education and Research,Puducherry,Pondicherry,39,Overall
+Koneru Lakshmaiah Education Foundation University (K L College of Engineering),Vaddeswaram,Andhra Pradesh,40,Overall
+Andhra University,Visakhapatnam,Andhra Pradesh,41,Overall
+Indian Institute of Science Education and Research Pune,Pune,Maharashtra,42,Overall
+Thapar Institute of Engineering and Technology (Deemed-to-be-university),Patiala,Punjab,43,Overall
+Bharathiar University,Coimbatore,Tamil Nadu,44,Overall
+Lovely Professional University,Phagwara,Punjab,45,Overall
+"National Institute of Technology Karnataka, Surathkal",Surathkal,Karnataka,46,Overall
+Shanmugha Arts Science Technology and Research Academy,Thanjavur,Tamil Nadu,47,Overall
+Indian Institute of Technology Ropar,Rupnagar,Punjab,48,Overall
+Amity University,Gautam Budh Nagar,Uttar Pradesh,49,Overall
+Kalasalingam Academy of Research and Education,Srivilliputhur,Tamil Nadu,50,Overall
+Cochin University of Science and Technology,Cochin,Kerala,51,Overall
+Symbiosis International,Pune,Maharashtra,52,Overall
 National Institute of Technology Warangal,Warangal,Telangana,53,Overall
 National Institute of Technology Calicut,Kozhikode,Kerala,54,Overall
-JSS Academy of Higher Education and Research,Mysuru,Karnataka,55,Overall
-Alagappa University,Karaikudi,Tamil Nadu,56,Overall
-Amity University,Gautam Budh Nagar,Uttar Pradesh,57,Overall
-University of Kashmir,Srinagar,Jammu and Kashmir,58,Overall
-Symbiosis International,Pune,Maharashtra,59,Overall
-Indian Institute of Science Education & Research Bhopal,Bhopal,Madhya Pradesh,60,Overall
-Delhi Technological University,New Delhi,Delhi,61,Overall
-Malaviya National Institute of Technology,Jaipur,Rajasthan,62,Overall
-Cochin University of Science and Technology,Cochin,Kerala,63,Overall
-Osmania University,Hyderabad,Telangana,64,Overall
-University of Madras,Chennai,Tamil Nadu,65,Overall
-"Indian Institute of Engineering Science and Technology, Shibpur",Howrah,West Bengal,66,Overall
-Indian Institute of Technology Jodhpur,Jodhpur,Rajasthan,66,Overall
-Indian Institute of Technology Patna,Patna,Bihar,66,Overall
-Babasheb Bhimrao Ambedkar University,Lucknow,Uttar Pradesh,69,Overall
-Bharathidasan University,Tiruchirappalli,Tamil Nadu,70,Overall
-Mysore University,Mysuru,Karnataka,71,Overall
-"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Jalandhar,Punjab,72,Overall
-Indian Institute of Technology Mandi,Mandi,Himachal Pradesh,73,Overall
-"Punjab Agricultural University, Ludhiana",Ludhiana,Punjab,74,Overall
-Datta Meghe Institute of Higher Education and Research,Wardha,Maharashtra,75,Overall
-"Andhra University, Visakhapatnam",Visakhapatnam,Andhra Pradesh,76,Overall
-King George`s Medical University,Lucknow,Uttar Pradesh,77,Overall
-Jamia Hamdard,New Delhi,Delhi,78,Overall
-UPES,Dehradun,Uttarakhand,79,Overall
-Sri Sivasubramaniya Nadar College of Engineering,Kalavakkam,Tamil Nadu,80,Overall
-Dr. D. Y. Patil Vidyapeeth,Pune,Maharashtra,81,Overall
-"Visvesvaraya National Institute of Technology, Nagpur",Nagpur,Maharashtra,82,Overall
-National Institute of Technology Silchar,Silchar,Assam,83,Overall
-Sathyabama Institute of Science and Technology,Chennai,Tamil Nadu,84,Overall
-Gujarat University,Ahmedabad,Gujarat,85,Overall
-"All India Institute of Medical Sciences, Rishikesh",Rishikesh,Uttarakhand,86,Overall
-Guru Nanak Dev University,Amritsar,Punjab,87,Overall
-SVKM`s Narsee Monjee Institute of Management Studies,Mumbai,Maharashtra,88,Overall
-Graphic Era University,Dehradun,Uttarakhand,89,Overall
-National Institute of Technology Durgapur,Durgapur,West Bengal,90,Overall
-Indian Institute of Technology Bhubaneswar,Bhubaneswar,Odisha,91,Overall
-Visvesvaraya Technological University,Belgaum,Karnataka,92,Overall
-Tamil Nadu Agricultural University,Coimbatore,Tamil Nadu,93,Overall
-Madurai Kamaraj University,Madurai,Tamil Nadu,94,Overall
+Bharathidasan University,Tiruchirappalli,Tamil Nadu,55,Overall
+Institute of Chemical Technology,Mumbai,Maharashtra,56,Overall
+Gauhati University,Guwahati,Assam,57,Overall
+Babasaheb Bhimrao Ambedkar University,Lucknow,Uttar Pradesh,58,Overall
+UPES,Dehradun,Uttarakhand,59,Overall
+Panjab University,Chandigarh,Chandigarh,60,Overall
+Indian Institute of Science Education and Research Kolkata,Mohanpur,West Bengal,61,Overall
+Jamia Hamdard,New Delhi,Delhi,62,Overall
+Dr. D. Y. Patil Vidyapeeth,Pune,Maharashtra,63,Overall
+Indian Institute of Science Education and Research Mohali,Mohali,Punjab,64,Overall
+University of Madras,Chennai,Tamil Nadu,64,Overall
+Delhi Technological University,New Delhi,Delhi,66,Overall
+Mahatma Gandhi University,Kottayam,Kerala,67,Overall
+Indian Institute of Technology Jodhpur,Jodhpur,Rajasthan,68,Overall
+University of Kashmir,Srinagar,Jammu and Kashmir,69,Overall
+Osmania University,Hyderabad,Telangana,70,Overall
+Datta Meghe Institute of Higher Education and Research,Wardha,Maharashtra,71,Overall
+Indian Institute of Technology Mandi,Mandi,Himachal Pradesh,72,Overall
+Indian Institute of Technology Patna,Patna,Bihar,73,Overall
+All India Institute of Medical Sciences Rishikesh,Rishikesh,Uttarakhand,74,Overall
+"Indian Statistical Institute, Kolkata",Kolkata,West Bengal,75,Overall
+Alagappa University,Karaikudi,Tamil Nadu,76,Overall
+Visvesvaraya National Institute of Technology Nagpur,Nagpur,Maharashtra,77,Overall
+Indian Institute of Science Education and Research Bhopal,Bhopal,Madhya Pradesh,78,Overall
+Graphic Era University,Dehradun,Uttarakhand,79,Overall
+Punjab Agricultural University,Ludhiana,Punjab,80,Overall
+Sri Sivasubramaniya Nadar College of Engineering,Kalavakkam,Tamil Nadu,81,Overall
+Malaviya National Institute of Technology,Jaipur,Rajasthan,82,Overall
+All India Institute of Medical Sciences Jodhpur,Jodhpur,Rajasthan,83,Overall
+SVKM`s Narsee Monjee Institute of Management Studies,Mumbai,Maharashtra,84,Overall
+Sathyabama Institute of Science and Technology,Chennai,Tamil Nadu,85,Overall
+Mysore University,Mysuru,Karnataka,86,Overall
+University of Jammu,Jammu,Jammu and Kashmir,87,Overall
+King George`s Medical University,Lucknow,Uttar Pradesh,88,Overall
+Shoolini University of Biotechnology and Management Sciences,Solan,Himachal Pradesh,89,Overall
+Christ University,Bengaluru,Karnataka,90,Overall
+Bharath Institute of Higher Education and Research,Chennai,Tamil Nadu,91,Overall
+National Institute of Technology Silchar,Silchar,Assam,92,Overall
+National Institute of Technology Durgapur,Durgapur,West Bengal,93,Overall
+Gujarat University,Ahmedabad,Gujarat,94,Overall
 Shiv Nadar University,Gautam Buddha Nagar,Uttar Pradesh,95,Overall
-Mumbai University,Mumbai,Maharashtra,96,Overall
-Banasthali Vidyapith,Banasthali,Rajasthan,97,Overall
-Sri Ramachandra Institute of Higher Education and Research,Chennai,Tamil Nadu,98,Overall
-Indian Institute of Management Calcutta,Kolkata,West Bengal,99,Overall
-Christ University,Bengaluru,Karnataka,100,Overall
-"All India Institute of Medical Sciences, Patna",Patna,Bihar,101-150,Overall
-"Amity University Haryana, Gurgaon","Gurugram, Haryana",Haryana,101-150,Overall
+Sri Ramachandra Institute of Higher Education and Research,Chennai,Tamil Nadu,96,Overall
+Acharya Nagarjuna University,Guntur,Andhra Pradesh,97,Overall
+Tata Institute of Social Sciences,Mumbai,Maharashtra,98,Overall
+All India Institute of Medical Sciences Patna,Patna,Bihar,99,Overall
+Periyar University,Salem,Tamil Nadu,100,Overall
 Ashoka University,Sonepat,Haryana,101-150,Overall
-Avinashilingam Institute for Home Science & Higher Education for Women,Coimbatore,Tamil Nadu,101-150,Overall
-Bharath Institute of Higher Education & Research,Chennai,Tamil Nadu,101-150,Overall
+"Assam University, Silchar",Silchar,Assam,101-150,Overall
+Banasthali Vidyapith,Banasthali,Rajasthan,101-150,Overall
+Bangalore University,Bengaluru,Karnataka,101-150,Overall
 Bharati Vidyapeeth,Pune,Maharashtra,101-150,Overall
 Birla Institute of Technology,Ranchi,Jharkhand,101-150,Overall
-"Calicut University, Thenhipalem, Malapuram",Malappuram,Kerala,101-150,Overall
+Calicut University,Malappuram,Kerala,101-150,Overall
 Central University of Punjab,Bathinda,Punjab,101-150,Overall
 Central University of Tamil Nadu,Tiruvarur,Tamil Nadu,101-150,Overall
 Chaudhary Charan Singh Haryana Agricultural University,Hisar,Haryana,101-150,Overall
 Chettinad Academy of Research and Education,"Kelambakkam, Chengalpattu District",Tamil Nadu,101-150,Overall
-"G.B. Pant Universtiy of Agriculture and Technology, Pantnagar",Pantnagar,Uttarakhand,101-150,Overall
-Gauhati University,Guwahati,Assam,101-150,Overall
+Chitkara University,Rajpura,Punjab,101-150,Overall
+Dibrugarh University,Dibrugarh,Assam,101-150,Overall
+Dr. B R Ambedkar National Institute of Technology Jalandhar,Jalandhar,Punjab,101-150,Overall
+G.B. Pant Universtiy of Agriculture and Technology,Pantnagar,Uttarakhand,101-150,Overall
 Guru Gobind Singh Indraprastha University,New Delhi,Delhi,101-150,Overall
-Indian Institute of Science Education & Research Thiruvananthapuram,Thiruvananthapuram,Kerala,101-150,Overall
+"Indian Institute of Engineering Science and Technology, Shibpur",Howrah,West Bengal,101-150,Overall
+Indian Institute of Space Science and Technology,Thiruvananthapuram,Kerala,101-150,Overall
+Indian Institute of Technology Bhubaneswar,Bhubaneswar,Odisha,101-150,Overall
 Indian Institute of Technology Palakkad,Palakkad,Kerala,101-150,Overall
+Indian Institute of Technology Tirupati,YERPEDU,Andhra Pradesh,101-150,Overall
 International Institute of Information Technology Hyderabad,Hyderabad,Telangana,101-150,Overall
-"Jain university,Bangalore",Bengaluru,Karnataka,101-150,Overall
-M. G. R. Educational and Research Institute,Chennai,Tamil Nadu,101-150,Overall
+"Jain University, Bangalore",Bengaluru,Karnataka,101-150,Overall
 M. S. Ramaiah Institute of Technology,Bengaluru,Karnataka,101-150,Overall
-Maharishi Markandeshwar,Ambala,Haryana,101-150,Overall
-Maharshi Dayanand University,Rohtak,Haryana,101-150,Overall
+Madan Mohan Malaviya University of Technology,Gorakhpur,Uttar Pradesh,101-150,Overall
+Madurai Kamaraj University,Madurai,Tamil Nadu,101-150,Overall
+Maharishi Markandeshwar (Deemed to be University),Ambala,Haryana,101-150,Overall
+Manav Rachna International Institute of Research and Studies,Faridabad,Haryana,101-150,Overall
+"Manipal University, Jaipur",Jaipur,Rajasthan,101-150,Overall
 "Manonmaniam Sundaranar University, Tirunelveli",Tirunelveli,Tamil Nadu,101-150,Overall
-Maulana Azad National Institute of Technology,Bhopal,Madhya Pradesh,101-150,Overall
 Mizoram University,Aizawl,Mizoram,101-150,Overall
-Motilal Nehru National Institute of Technology,Prayagraj,Uttar Pradesh,101-150,Overall
+Mumbai University,Mumbai,Maharashtra,101-150,Overall
 National Institute of Technology Patna,Patna,Bihar,101-150,Overall
+National Institute of Technology Raipur,Raipur,Chhattisgarh,101-150,Overall
 National Institute of Technology Srinagar,Srinagar,Jammu and Kashmir,101-150,Overall
-"National Institute of Technology, Raipur",Raipur,Chhattisgarh,101-150,Overall
-Netaji Subhas University of Technology (NSUT),South West,Delhi,101-150,Overall
+Netaji Subhas University of Technology (NSUT),Delhi,Delhi,101-150,Overall
 NITTE,Mangaluru,Karnataka,101-150,Overall
-North Eastern Hill University,Shillong,Meghalaya,101-150,Overall
-Periyar University,Salem,Tamil Nadu,101-150,Overall
 Pondicherry University,Puducherry,Pondicherry,101-150,Overall
 PSG College of Technology,Coimbatore,Tamil Nadu,101-150,Overall
-Sardar Vallabhbhai National Institute of Technology,Surat,Gujarat,101-150,Overall
+Sant Longowal Institute of Engineering and Technology,Longowal,Punjab,101-150,Overall
 Sharda University,Greater Noida,Uttar Pradesh,101-150,Overall
-Shoolini University of Biotechnology and Management Sciences,Solan,Himachal Pradesh,101-150,Overall
-Sri Balaji Vidyapeeth Mahatma Gandhi Medical College Campus,Puducherry,Pondicherry,101-150,Overall
-Sri Krishna College of Engineering and Technology,Coimbatore,Tamil Nadu,101-150,Overall
+Sri Balaji Vidyapeeth Mahatma Gandhi Medical College,Puducherry,Pondicherry,101-150,Overall
 Sri Venkateswara University,Tirupati,Andhra Pradesh,101-150,Overall
+Tamil Nadu Agricultural University,Coimbatore,Tamil Nadu,101-150,Overall
 Tezpur University,Tezpur,Assam,101-150,Overall
-The University of Burdwan,Bardhaman,West Bengal,101-150,Overall
-"University of Agricultural Sciences, Bangalore",Bangalore,Karnataka,101-150,Overall
-University of Jammu,Jammu,Jammu and Kashmir,101-150,Overall
-Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology,Chennai,Tamil Nadu,101-150,Overall
+University College of Medical Sciences,Delhi,Delhi,101-150,Overall
+University of Agricultural Sciences,Bengaluru,Karnataka,101-150,Overall
 "Vignan's Foundation for Science, Technology and Research",Guntur,Andhra Pradesh,101-150,Overall
-Visva Bharati,Santiniketan,West Bengal,101-150,Overall
+Visvesvaraya Technological University,Belgaum,Karnataka,101-150,Overall
 Yenepoya University,Mangaluru,Karnataka,101-150,Overall
-"Acharya NG Ranga Agricultural University, Guntur",Guntur,Andhra Pradesh,151-200,Overall
-Anand Agricultural University,Anand,Gujarat,151-200,Overall
+Acharya N G Ranga Agricultural University,Guntur,Andhra Pradesh,151-200,Overall
+Amity University,North Twenty Four Parganas,West Bengal,151-200,Overall
+"Amity University Haryana, Gurgaon","Gurugram, Haryana",Haryana,151-200,Overall
 Annamalai University,Annamalainagar,Tamil Nadu,151-200,Overall
-Assam University-Silchar,Silchar,Assam,151-200,Overall
+Avinashilingam Institute for Home Science and Higher Education for Women,Coimbatore,Tamil Nadu,151-200,Overall
 BLDE,Vijayapura,Karnataka,151-200,Overall
 "C.V. Raman Global University, Odisha",Bhubaneswar,Odisha,151-200,Overall
-"Chandigarh Engineering College-CGC, Landran, Mohali",Sahibzada Ajit Singh Nagar,Punjab,151-200,Overall
-Chaudhary Sarwan Kumar Himachal Pardesh Krishi Vishvavidyalaya,Kangra,Himachal Pradesh,151-200,Overall
-Chitkara  University,Rajpura,Punjab,151-200,Overall
-"College of Engineering, Pune",Pune,Maharashtra,151-200,Overall
-D. Y. Patil Educational Society,Kolhapur,Maharashtra,151-200,Overall
-Dibrugarh University,Dibrugarh,Assam,151-200,Overall
-"Dr. Babasaheb Ambedkar Marathwada University, Aurangabad",Aurangabad,Maharashtra,151-200,Overall
-"Dr. Y.S. Parmar University of Horticulture and Forestry, Solan",Solan,Himachal Pradesh,151-200,Overall
+Central University of Kerala,Kasaragod,Kerala,151-200,Overall
+"Chandigarh Engineering College-CGC, Landran, Mohali",Mohali,Punjab,151-200,Overall
+Chennai Institute of Technology,Chennai,Tamil Nadu,151-200,Overall
+COEP Technological University,Pune,Maharashtra,151-200,Overall
+Dr. M. G. R. Educational and Research Institute,Chennai,Tamil Nadu,151-200,Overall
+Dr. Y.S. Parmar University of Horticulture and Forestry,Solan,Himachal Pradesh,151-200,Overall
+G. L. A. University,Mathura,Uttar Pradesh,151-200,Overall
 Galgotias University,Gautam Budh Nagar,Uttar Pradesh,151-200,Overall
 Gandhi Institute of Technology and Management,Visakhapatnam,Andhra Pradesh,151-200,Overall
-Hindustan Institute of Technology  and Science (HITS),Chennai,Tamil Nadu,151-200,Overall
-Indira Gandhi Institute of Medical Sciences,Patna,Bihar,151-200,Overall
-Indraprastha Institute of Information Technology Delhi,New Delhi,Delhi,151-200,Overall
-Jawaharlal Nehru Technological University,Kakinada,Andhra Pradesh,151-200,Overall
+Hindustan Institute of Technology and Science (HITS),Chennai,Tamil Nadu,151-200,Overall
+Indian Institute of Science Education and Research Thiruvananthapuram,Thiruvananthapuram,Kerala,151-200,Overall
+Integral University,Lucknow,Uttar Pradesh,151-200,Overall
 "Kalinga University, Raipur",Raipur,Chhattisgarh,151-200,Overall
 Kalyani University,Kalyani,West Bengal,151-200,Overall
 Karunya Institute of Technology and Sciences,Coimbatore,Tamil Nadu,151-200,Overall
-"Kerala Agricultural University, Thrissur",Thrissur,Kerala,151-200,Overall
 KLE Academy of Higher Education and Research,Belagavi,Karnataka,151-200,Overall
 KPR Institute of Engineering and Technology,Coimbatore,Tamil Nadu,151-200,Overall
-"Krishna Vishwa Vidyapeeth, Karad, Maharashtra",Karad,Maharashtra,151-200,Overall
-Kurukshetra University,Kurukshetra,Haryana,151-200,Overall
-Kuvempu University,Shivamogga,Karnataka,151-200,Overall
-LNCT University,Bhopal,Madhya Pradesh,151-200,Overall
-Manav Rachna International Institute of Research & Studies,Faridabad,Haryana,151-200,Overall
+Krishna Vishwa Vidyapeeth,Karad,Maharashtra,151-200,Overall
+Maharshi Dayanand University,Rohtak,Haryana,151-200,Overall
 Mangalore University,Mangalore,Karnataka,151-200,Overall
-Manipal University Jaipur,Jaipur,Rajasthan,151-200,Overall
 Manipur University,Imphal,Manipur,151-200,Overall
-Meenakshi Academy of Higher Education and Research,Chennai,Tamil Nadu,151-200,Overall
+Maulana Azad National Institute of Technology,Bhopal,Madhya Pradesh,151-200,Overall
 Mepco Schlenk Engineering College,Sivakasi,Tamil Nadu,151-200,Overall
-Nirma University,Ahmedabad,Gujarat,151-200,Overall
-"Orissa University of Agriculture & Technology, Bhubaneswar",Khordha,Odisha,151-200,Overall
+Motilal Nehru National Institute of Technology,Prayagraj,Uttar Pradesh,151-200,Overall
+National Institute of Technology Kurukshetra,Kurukshetra,Haryana,151-200,Overall
+"NIMS University, Jaipur",Jaipur,Rajasthan,151-200,Overall
+Noida Institute of Engineering & Technology,Greater Noida,Uttar Pradesh,151-200,Overall
+North Eastern Hill University,Shillong,Meghalaya,151-200,Overall
+Odisha University of Agriculture and Technology,Khordha,Odisha,151-200,Overall
 "Padmashree Dr. D. Y. Patil Vidyapeeth, Mumbai",Mumbai,Maharashtra,151-200,Overall
 Presidency University,Kolkata,West Bengal,151-200,Overall
-"PSG INSTITUTE OF MEDICAL SCIENCES & RESEARCH (Inst. Code - 012), COIMBATORE",Coimbatore,Tamil Nadu,151-200,Overall
+PSG Institute of Medical Sciences and Research,Coimbatore,Tamil Nadu,151-200,Overall
 Rajalakshmi Engineering College,Chennai,Tamil Nadu,151-200,Overall
 Sawai Man Singh Medical College,Jaipur,Rajasthan,151-200,Overall
-SCB Medical College and Hospital,Cuttack,Odisha,151-200,Overall
 SR University,Warangal,Telangana,151-200,Overall
-Tamil Nadu Veterinary & Animal Sciences University,Chennai,Tamil Nadu,151-200,Overall
-Tata Institute of Social Sciences,Mumbai,Maharashtra,151-200,Overall
+Sri Krishna College of Engineering and Technology,Coimbatore,Tamil Nadu,151-200,Overall
+Suresh Gyan Vihar University,Jaipur,Rajasthan,151-200,Overall
+University of Burdwan,Bardhaman,West Bengal,151-200,Overall
+University of Lucknow,Lucknow,Uttar Pradesh,151-200,Overall
 Utkal University,Bhubaneswar,Odisha,151-200,Overall
-Veer Surendra Sai University of Technology,Burla,Odisha,151-200,Overall
-"VELS Institute of Science Technology & Advanced Studies (Vistas) ,Chennai",Chennai,Tamil Nadu,151-200,Overall
+Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology,Chennai,Tamil Nadu,151-200,Overall
+Vels Institute of Science Technology and Advanced Studies (VISTAS),Chennai,Tamil Nadu,151-200,Overall
+Visva Bharati,Santiniketan,West Bengal,151-200,Overall
